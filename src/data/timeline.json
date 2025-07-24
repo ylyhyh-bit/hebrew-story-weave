@@ -1,0 +1,142 @@
+{
+  "events": [
+    {
+      "id": "1900-birth-sarah",
+      "date": "1900-03-15",
+      "hebrewDate": "ח' באדר ה'תר\"ס",
+      "type": "birth",
+      "title": "לידת שרה",
+      "subtitle": "Sarah's Birth",
+      "description": "שרה נולדה בעיר הקטנה בפולין, הבת הבכורה למשפחת כהן",
+      "fullDescription": "שרה כהן נולדה בבוקר חורפי קר בעיר הקטנה בפולין. היא הייתה הבת הבכורה למשפחת כהן, משפחה ששמרה על המסורת היהודית במשך דורות. לידתה הייתה אירוע משמח במיוחד עבור ההורים שחיכו שנים לילד ראשון.",
+      "familyMembers": ["sarah-cohen"],
+      "location": "פולין",
+      "culturalContext": "לידה בקהילה יהודית שמרנית",
+      "significance": "תחילת דור חדש במשפחה",
+      "relatedEvents": ["1918-marriage-sarah"],
+      "tags": ["birth", "poland", "cohen-family"]
+    },
+    {
+      "id": "1905-birth-david",
+      "date": "1905-07-22",
+      "hebrewDate": "י\"ה בתמוז ה'תרס\"ה",
+      "type": "birth",
+      "title": "לידת דוד",
+      "subtitle": "David's Birth",
+      "description": "דוד לוי נולד בירושלים, בן למשפחה ידועה של תלמידי חכמים",
+      "fullDescription": "דוד לוי נולד בעיר העתיקה בירושלים, בבית שהיה בבעלות המשפחה כבר שלושה דורות. אביו היה מורה בחדר המקומי ואמו הייתה ידועה בקהילה בזכות חסדיה ובישוליה המופלאים לשבת ולחגים.",
+      "familyMembers": ["david-levi"],
+      "location": "ירושלים",
+      "culturalContext": "לידה בעיר הקודש",
+      "significance": "המשך שושלת תלמידי חכמים",
+      "relatedEvents": ["1918-marriage-sarah"],
+      "tags": ["birth", "jerusalem", "levi-family", "scholars"]
+    },
+    {
+      "id": "1918-marriage-sarah",
+      "date": "1918-05-14",
+      "hebrewDate": "ג' בסיון ה'תרע\"ח",
+      "type": "marriage",
+      "title": "חתונת שרה ודוד",
+      "subtitle": "Sarah & David's Wedding",
+      "description": "שרה ודוד התחתנו בחתונה מפוארת שאיחדה שתי משפחות חשובות",
+      "fullDescription": "החתונה נערכה בבית הכנסת הגדול בירושלים, בנוכחות כל הקהילה. שרה לבשה שמלת כלה שעברה בירושה במשפחתה במשך דורות, ודוד עמד תחת החופה בטלית שקיבל מסבו. החתונה הייתה אירוע קהילתי גדול שאיחד שתי משפחות נכבדות.",
+      "familyMembers": ["sarah-cohen", "david-levi"],
+      "location": "ירושלים",
+      "culturalContext": "חתונה יהודית מסורתית",
+      "significance": "איחוד משפחת כהן-לוי",
+      "relatedEvents": ["1900-birth-sarah", "1905-birth-david", "1920-birth-miriam"],
+      "tags": ["marriage", "jerusalem", "wedding", "union"]
+    },
+    {
+      "id": "1920-birth-miriam",
+      "date": "1920-02-10",
+      "hebrewDate": "כ' בשבט ה'תר\"פ",
+      "type": "birth",
+      "title": "לידת מרים",
+      "subtitle": "Miriam's Birth",
+      "description": "מרים, הבת הראשונה לשרה ודוד, נולדה בטו בשבט",
+      "fullDescription": "מרים נולדה ביום המיוחד של טו בשבט, חג האילנות. ההורים ראו בכך סימן מזל טוב ובישור לעתיד פורח. מרים הייתה ילדה חכמה וחיונית, שאהבה לשמוע סיפורים על המשפחה ועל היסטוריה יהודית.",
+      "familyMembers": ["miriam-levi", "sarah-cohen", "david-levi"],
+      "location": "ירושלים",
+      "culturalContext": "לידה בטו בשבט",
+      "significance": "הדור השלישי מתחיל",
+      "relatedEvents": ["1918-marriage-sarah", "1945-achievement-miriam"],
+      "tags": ["birth", "tu-bishvat", "third-generation"]
+    },
+    {
+      "id": "1935-cultural-synagogue",
+      "date": "1935-09-18",
+      "hebrewDate": "י' בתשרי ה'תרצ\"ו",
+      "type": "cultural",
+      "title": "חנוכת בית הכנסת החדש",
+      "subtitle": "New Synagogue Inauguration",
+      "description": "המשפחה השתתפה בחנוכת בית הכנסת החדש בשכונה",
+      "fullDescription": "בית הכנסת החדש נבנה בעמל רב על ידי הקהילה המקומית. המשפחה תרמה משאבים והשקיעה זמן רב בבנייה. החנוכה נערכה בליל יום כיפור, והייתה לאירוע מרגש שחיבר את כל הקהילה.",
+      "familyMembers": ["sarah-cohen", "david-levi", "miriam-levi"],
+      "location": "ירושלים",
+      "culturalContext": "בניית מוסדות דתיים",
+      "significance": "חיזוק הקהילה היהודית",
+      "relatedEvents": [],
+      "tags": ["cultural", "synagogue", "community", "yom-kippur"]
+    },
+    {
+      "id": "1945-achievement-miriam",
+      "date": "1945-06-30",
+      "hebrewDate": "כ' בסיון ה'תש\"ה",
+      "type": "achievement",
+      "title": "סיום לימודי מרים",
+      "subtitle": "Miriam's Graduation",
+      "description": "מרים סיימה בהצטיינות את לימודיה כמורה",
+      "fullDescription": "מרים הייתה הראשונה במשפחה שהשלימה השכלה גבוהה. היא למדה במכללה למורים בירושלים והתמחתה בחינוך ילדים. הישג זה היה משמעותי במיוחד באותה תקופה, כאשר נשים רבות לא זכו להשכלה גבוהה.",
+      "familyMembers": ["miriam-levi"],
+      "location": "ירושלים",
+      "culturalContext": "השכלה נשית בתחילת המאה",
+      "significance": "פריצת דרך משפחתית בחינוך",
+      "relatedEvents": ["1920-birth-miriam"],
+      "tags": ["achievement", "education", "teacher", "women-empowerment"]
+    },
+    {
+      "id": "1948-tradition-independence",
+      "date": "1948-05-14",
+      "hebrewDate": "ה' באייר ה'תש\"ח",
+      "type": "tradition",
+      "title": "יום העצמאות הראשון",
+      "subtitle": "First Independence Day",
+      "description": "המשפחה חגגה את יום העצמאות הראשון של מדינת ישראל",
+      "fullDescription": "היום הזה היה מלא רגש עבור כל המשפחה. אחרי אלפי שנות גלות, הקמת מדינת ישראל הייתה מימוש חלום עתיק. המשפחה ארגנה חגיגה מיוחדת בבית, הדליקה נרות והקריאה תהילים. זה היה רגע היסטורי שהמשפחה זכרה לכל החיים.",
+      "familyMembers": ["sarah-cohen", "david-levi", "miriam-levi"],
+      "location": "ירושלים",
+      "culturalContext": "הקמת מדינת ישראל",
+      "significance": "רגע היסטורי עבור העם היהודי",
+      "relatedEvents": [],
+      "tags": ["tradition", "independence", "israel", "historical"]
+    }
+  ],
+  "familyMembers": {
+    "sarah-cohen": {
+      "name": "שרה כהן",
+      "englishName": "Sarah Cohen",
+      "birthYear": 1900,
+      "description": "האם המייסדת של המשפחה",
+      "role": "אם ובעלת בית",
+      "characteristics": ["חסודה", "חכמה", "מסורתית"]
+    },
+    "david-levi": {
+      "name": "דוד לוי",
+      "englishName": "David Levi",
+      "birthYear": 1905,
+      "description": "האב המייסד של המשפחה",
+      "role": "מורה ותלמיד חכם",
+      "characteristics": ["חכם", "סבלני", "דתי"]
+    },
+    "miriam-levi": {
+      "name": "מרים לוי",
+      "englishName": "Miriam Levi",
+      "birthYear": 1920,
+      "description": "הבת הבכורה, מורה מוערכת",
+      "role": "מורה ומחנכת",
+      "characteristics": ["משכילה", "נחושה", "חלוצה"]
+    }
+  }
+}
